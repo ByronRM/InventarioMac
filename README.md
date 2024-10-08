@@ -1,0 +1,2 @@
+# InventarioMac
+Inventario equipos Mac
